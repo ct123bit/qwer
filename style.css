@@ -283,7 +283,7 @@ nav .fa {
   }
   .content img  {
     float: right;    
-     margin: 0 0 0 15px;
+     margin: 0 0 0 0;
     }
     .content {
         padding: 0; /* 75px being the width of the thumbnail + how much space you want to put between it and your text */
